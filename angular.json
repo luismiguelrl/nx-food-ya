@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "food-ya-public": "apps/food-ya-public",
+    "food-ya-public-e2e": "apps/food-ya-public-e2e"
+  }
+}
